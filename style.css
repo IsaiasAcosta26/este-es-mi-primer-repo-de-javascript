@@ -1,0 +1,17 @@
+.stilo {
+    background-color: black;
+    color: aliceblue;
+    width: 30%;
+    height: 80%;
+    border-radius: 5%;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+}
+
+.text{ 
+    display: flex;
+    justify-content: center;
+}
